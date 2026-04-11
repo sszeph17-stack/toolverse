@@ -1,0 +1,4 @@
+[
+  {"id":1,"name":"Text to Speech","desc":"Convert text to audio","file":"tool1.html"},
+  {"id":2,"name":"QR Generator","desc":"Generate QR codes instantly","file":"tool2.html"}
+]
